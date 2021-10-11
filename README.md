@@ -1,5 +1,5 @@
 # Anton
-A complete automation for Whatsapp Chat. It can reply to the messages to a group or person from your WhatsApp account without your intervention
+A complete automation for Whatsapp Chat. It can reply to the messages to a group or person from your WhatsApp account without your intervention.
 
 > ![Whatsapp.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1633964229233/2XtLzrXv9.jpeg)
 
